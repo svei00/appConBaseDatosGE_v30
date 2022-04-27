@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App con Base de Datos Local</string>
+    <string name="txtId">ID Producto</string>
+    <string name="txtDesc">Descripción</string>
+    <string name="txtPrecio">Precio</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="btnSearch">Buscar</string>
+    <string name="btnUpdate">Modificar</string>
+    <string name="btnDel">Eliminar</string>
+</resources>
